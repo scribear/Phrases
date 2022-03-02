@@ -1,0 +1,4 @@
+malloc
+realloc
+deadlock
+pthread
